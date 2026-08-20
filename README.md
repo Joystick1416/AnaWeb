@@ -27,3 +27,8 @@ El curso combina tres bloques temáticos, aplicados siempre "desde cero" (implem
 - `Controles/` — enunciados de los controles pasados, usados como guía de repaso.
 - `Clases/` — material de clases (pendiente).
 - `Ejercicios/` — ejercicios de práctica (pendiente).
+
+## Herramientas recomendadas (VS Code)
+
+- **[vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)** — permite abrir y visualizar los PDFs de `PDFs/` directamente en una pestaña del editor, sin salir de VS Code.
+- **[Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)** — necesaria para que los diagramas en bloques ` ```mermaid ` (como los de `Clases/Sesión1.md`) se rendericen en la vista previa de Markdown.
